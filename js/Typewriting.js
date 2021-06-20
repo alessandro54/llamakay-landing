@@ -34,7 +34,7 @@ $(function() {
 	  setTimeout( function(){
 		  if($("#site-type").length) {
           $(".typewrite span").typed({
-            strings: ["un abogado rapido ", "la mejor asesoria legal "],
+            strings: ["un desarrollador eficaz ", "los mejores profesionales "],
             typeSpeed: 97,
             backDelay: 500,
             loop: false,
